@@ -50,8 +50,8 @@ Adotei a linguagem Java como minha base.
 
 [![GitHub](https://shields.io/badge/consumindo_api_com_python-000?style=for-the-badge&logo=github&logoColor=C3002F)](https://github.com/InaldoSilva/API-using-python-and-postman)
 
-[![GitHub](https://shields.io/badge/Afinador_Cromatico-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/InaldoSilva/Web-API-NodeJs)
+[![GitHub](https://shields.io/badge/Web AP NodeJs-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/InaldoSilva/Web-API-NodeJs)
 
 [![GitHub](https://shields.io/badge/site_pessoal-000?style=for-the-badge&logo=github&logoColor=C3002F)](https://github.com/InaldoSilva/inaldosilva.com)
 
-[![GitHub](https://shields.io/badge/Afinador_Cromatico-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/InaldoSilva/electrics-dot-com)
+[![GitHub](https://shields.io/badge/Electrics.com-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/InaldoSilva/electrics-dot-com)
